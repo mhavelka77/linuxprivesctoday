@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>linuxprivesctoday — was a Linux privesc dropped today?</title>
+<meta name="description" content="A daily auto-scanner that watches Hacker News for new Linux local privilege escalation disclosures and exploits.">
+<meta name="theme-color" content="#0b0d10">
+<meta property="og:title" content="linuxprivesctoday">
+<meta property="og:description" content="Was a new Linux privesc dropped today?">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><text y='52' font-size='52'>🐧</text></svg>">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main>
+  <header class="hero">
+    <div class="brand">
+      <span class="dot"></span>
+      <span>linuxprivesctoday</span>
+    </div>
+    <h1 id="status" class="status status--unknown">loading…</h1>
+    <p id="status-sub" class="status-sub">checking the feed</p>
+    <p class="meta">
+      <span id="meta-line">—</span>
+    </p>
+  </header>
+
+  <section class="list-section">
+    <div class="list-head">
+      <h2>recent disclosures</h2>
+      <div class="filters">
+        <label class="toggle">
+          <input type="checkbox" id="show-low" />
+          <span>show low-confidence</span>
+        </label>
+      </div>
+    </div>
+    <ul id="items" class="items">
+      <li class="empty">loading…</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>
+      Auto-scans Hacker News hourly. Classification by an LLM — treat as a lead, not gospel.
+      Source on <a id="repo-link" href="#">GitHub</a>.
+    </p>
+    <p class="muted">
+      Built because LLM-driven kernel audits will keep finding these.
+    </p>
+  </footer>
+</main>
+<script src="script.js"></script>
+</body>
+</html>
