@@ -1,10 +1,26 @@
 {
-  "generated_at": "2026-05-08T10:51:44+00:00",
+  "generated_at": "2026-05-08T14:20:12+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 1,
   "total_privesc": 8,
-  "total_scanned": 50,
+  "total_scanned": 53,
   "items": [
+    {
+      "id": "48063372",
+      "title": "Meta's Broken Promises (2023)",
+      "url": "https://www.hrw.org/report/2023/12/21/metas-broken-promises/systemic-censorship-palestine-content-instagram-and",
+      "hn_url": "https://news.ycombinator.com/item?id=48063372",
+      "points": 1,
+      "num_comments": 0,
+      "author": "ciconia",
+      "created_at": "2026-05-08T14:05:33Z",
+      "created_at_i": 1778249133,
+      "is_privesc": false,
+      "confidence": 0.99,
+      "severity": "low",
+      "cve": "",
+      "summary": "Human Rights Watch report on Meta's content moderation practices regarding Palestine-related content on Instagram and Facebook. Not a security or privilege escalation issue."
+    },
     {
       "id": "48060952",
       "title": "'Dirty Frag' exploit leaks out, gives root on most Linux machines",
@@ -710,6 +726,22 @@
       "summary": "A Renaissance-style 3D world map visualization project. Not related to Linux privilege escalation or security vulnerabilities."
     },
     {
+      "id": "47935246",
+      "title": "Show HN: Rocky \u2013 Rust SQL engine with branches, replay, column lineage",
+      "url": "https://github.com/rocky-data/rocky",
+      "hn_url": "https://news.ycombinator.com/item?id=47935246",
+      "points": 122,
+      "num_comments": 48,
+      "author": "hugocorreia90",
+      "created_at": "2026-04-28T14:35:59Z",
+      "created_at_i": 1777386959,
+      "is_privesc": false,
+      "confidence": 0.99,
+      "severity": "low",
+      "cve": "",
+      "summary": "Rocky is a Rust SQL engine with branching and replay features. Not a security vulnerability or privilege escalation issue."
+    },
+    {
       "id": "47923457",
       "title": "Show HN: Slatewave \u2013 a single color palette across terminals, editors, and apps",
       "url": "https://getslatewave.com/",
@@ -724,6 +756,22 @@
       "severity": "low",
       "cve": "",
       "summary": "Color palette tool for terminals and editors. Not a security vulnerability or privilege escalation issue."
+    },
+    {
+      "id": "47921626",
+      "title": "Show HN: Utilyze \u2013 an open source GPU monitoring tool more accurate than nvtop",
+      "url": "https://www.systalyze.com/utilyze",
+      "hn_url": "https://news.ycombinator.com/item?id=47921626",
+      "points": 128,
+      "num_comments": 28,
+      "author": "ManyaGhobadi",
+      "created_at": "2026-04-27T13:55:43Z",
+      "created_at_i": 1777298143,
+      "is_privesc": false,
+      "confidence": 0.98,
+      "severity": "low",
+      "cve": "",
+      "summary": "GPU monitoring tool project. Not related to Linux privilege escalation vulnerabilities or exploits."
     },
     {
       "id": "47914369",
