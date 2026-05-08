@@ -1,10 +1,42 @@
 {
-  "generated_at": "2026-05-08T16:47:30+00:00",
+  "generated_at": "2026-05-08T19:48:38+00:00",
   "model": "anthropic/claude-haiku-4-5",
-  "today_count": 2,
-  "total_privesc": 9,
-  "total_scanned": 56,
+  "today_count": 3,
+  "total_privesc": 10,
+  "total_scanned": 59,
   "items": [
+    {
+      "id": "48067446",
+      "title": "Dirty Frag (CVE-2026-43284, CVE-2026-43500): Mitigation",
+      "url": "https://blog.cloudlinux.com/dirty-frag-mitigation-and-kernel-update",
+      "hn_url": "https://news.ycombinator.com/item?id=48067446",
+      "points": 2,
+      "num_comments": 0,
+      "author": "abdelhousni",
+      "created_at": "2026-05-08T19:14:56Z",
+      "created_at_i": 1778267696,
+      "is_privesc": true,
+      "confidence": 0.85,
+      "severity": "high",
+      "cve": "CVE-2026-43284",
+      "summary": "Dirty Frag kernel vulnerability mitigation and updates. Linux LPE affecting memory fragmentation handling with privilege escalation potential."
+    },
+    {
+      "id": "48065885",
+      "title": "Write Linux-PAM's Authentication Modules in GNU Guile",
+      "url": "https://juix.org/manuals/guile-pam.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48065885",
+      "points": 1,
+      "num_comments": 0,
+      "author": "lechner",
+      "created_at": "2026-05-08T17:05:27Z",
+      "created_at_i": 1778259927,
+      "is_privesc": false,
+      "confidence": 0.95,
+      "severity": "low",
+      "cve": "",
+      "summary": "Tutorial on writing Linux-PAM authentication modules using GNU Guile. Educational content about PAM programming, not a vulnerability disclosure or exploit."
+    },
     {
       "id": "48065526",
       "title": "Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux",
@@ -68,6 +100,22 @@
       "severity": "critical",
       "cve": "",
       "summary": "Dirty Frag exploit disclosed, provides root privilege escalation on Linux systems since 2017. No patches available at disclosure time. Affects most Linux machines."
+    },
+    {
+      "id": "48060054",
+      "title": "Ask HN: We just had an actual UUID v4 collision...",
+      "url": "https://news.ycombinator.com/item?id=48060054",
+      "hn_url": "https://news.ycombinator.com/item?id=48060054",
+      "points": 199,
+      "num_comments": 187,
+      "author": "mittermayr",
+      "created_at": "2026-05-08T07:57:14Z",
+      "created_at_i": 1778227034,
+      "is_privesc": false,
+      "confidence": 0.99,
+      "severity": "low",
+      "cve": "",
+      "summary": "Discussion about UUID v4 collision occurrence. Not related to Linux privilege escalation, kernel bugs, or security vulnerabilities."
     },
     {
       "id": "48058330",
@@ -324,22 +372,6 @@
       "severity": "low",
       "cve": "",
       "summary": "Token usage meter tool for AI providers and coding agents. Not a security vulnerability or privilege escalation issue."
-    },
-    {
-      "id": "48023496",
-      "title": "Show HN: Airbyte Agents \u2013 context for agents across multiple data sources",
-      "url": "https://news.ycombinator.com/item?id=48023496",
-      "hn_url": "https://news.ycombinator.com/item?id=48023496",
-      "points": 145,
-      "num_comments": 45,
-      "author": "mtricot",
-      "created_at": "2026-05-05T15:03:18Z",
-      "created_at_i": 1777993398,
-      "is_privesc": false,
-      "confidence": 0.99,
-      "severity": "low",
-      "cve": "",
-      "summary": "Airbyte Agents product announcement about data integration and agent context across multiple sources. Not a security vulnerability or privilege escalation issue."
     },
     {
       "id": "48022058",
@@ -724,6 +756,22 @@
       "severity": "low",
       "cve": "",
       "summary": "A transparent Tor proxy tool for Linux. Not a privilege escalation vulnerability or exploit."
+    },
+    {
+      "id": "47942492",
+      "title": "Regression: malware reminder on every read still causes subagent refusals",
+      "url": "https://github.com/anthropics/claude-code/issues/49363",
+      "hn_url": "https://news.ycombinator.com/item?id=47942492",
+      "points": 252,
+      "num_comments": 147,
+      "author": "thomashobohm",
+      "created_at": "2026-04-28T23:59:57Z",
+      "created_at_i": 1777420797,
+      "is_privesc": false,
+      "confidence": 0.99,
+      "severity": "low",
+      "cve": "",
+      "summary": "GitHub issue about Claude Code subagent behavior regression, unrelated to Linux privilege escalation or security vulnerabilities."
     },
     {
       "id": "47940150",
