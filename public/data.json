@@ -1,10 +1,26 @@
 {
-  "generated_at": "2026-05-08T08:58:42+00:00",
+  "generated_at": "2026-05-08T10:51:44+00:00",
   "model": "anthropic/claude-haiku-4-5",
-  "today_count": 0,
-  "total_privesc": 7,
-  "total_scanned": 48,
+  "today_count": 1,
+  "total_privesc": 8,
+  "total_scanned": 50,
   "items": [
+    {
+      "id": "48060952",
+      "title": "'Dirty Frag' exploit leaks out, gives root on most Linux machines",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/dirty-frag-exploit-gets-root-on-most-linux-machines-since-2017-no-patches-available-no-warning-given-copy-fail-like-vulnerability-had-its-embargo-broken",
+      "hn_url": "https://news.ycombinator.com/item?id=48060952",
+      "points": 7,
+      "num_comments": 1,
+      "author": "lschueller",
+      "created_at": "2026-05-08T09:59:35Z",
+      "created_at_i": 1778234375,
+      "is_privesc": true,
+      "confidence": 0.95,
+      "severity": "critical",
+      "cve": "",
+      "summary": "Dirty Frag exploit disclosed, provides root privilege escalation on Linux systems since 2017. No patches available at disclosure time. Affects most Linux machines."
+    },
     {
       "id": "48058330",
       "title": "Coming of Age",
@@ -164,6 +180,22 @@
       "severity": "low",
       "cve": "",
       "summary": "Gosd is a pure Go implementation of Stable Diffusion inference. Not related to Linux privilege escalation, kernel bugs, or security vulnerabilities."
+    },
+    {
+      "id": "48050060",
+      "title": "Show HN: MySigner \u2013 Ship iOS and Android apps with one command",
+      "url": "https://mysigner.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48050060",
+      "points": 3,
+      "num_comments": 0,
+      "author": "lekacoding",
+      "created_at": "2026-05-07T14:41:24Z",
+      "created_at_i": 1778164884,
+      "is_privesc": false,
+      "confidence": 0.99,
+      "severity": "low",
+      "cve": "",
+      "summary": "MySigner is a development tool for shipping iOS and Android apps. Not a Linux privilege escalation vulnerability or exploit."
     },
     {
       "id": "48048647",
