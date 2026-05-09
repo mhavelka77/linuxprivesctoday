@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-09T19:36:48+00:00",
+  "generated_at": "2026-05-09T22:04:40+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 3,
   "total_privesc": 13,
-  "total_scanned": 69,
+  "total_scanned": 70,
   "items": [
     {
       "id": "48077314",
@@ -20,6 +20,22 @@
       "severity": "critical",
       "cve": "CVE-2026-43284",
       "summary": "Dirty Frag (CVE-2026-43284) is a Linux kernel root privilege escalation vulnerability, the second critical LPE exploit disclosed within eight days."
+    },
+    {
+      "id": "48076815",
+      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+      "url": "https://github.com/nooga/let-go",
+      "hn_url": "https://news.ycombinator.com/item?id=48076815",
+      "points": 12,
+      "num_comments": 0,
+      "author": "marcingas",
+      "created_at": "2026-05-09T17:52:13Z",
+      "created_at_i": 1778349133,
+      "is_privesc": false,
+      "confidence": 0.99,
+      "severity": "low",
+      "cve": "",
+      "summary": "A Clojure-like programming language implementation in Go. Not related to Linux privilege escalation or security vulnerabilities."
     },
     {
       "id": "48076159",
