@@ -1,10 +1,26 @@
 {
-  "generated_at": "2026-05-10T08:23:45+00:00",
+  "generated_at": "2026-05-10T10:41:28+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
   "total_privesc": 13,
-  "total_scanned": 74,
+  "total_scanned": 75,
   "items": [
+    {
+      "id": "48082253",
+      "title": "AI Act Article 50 transparency rules. Heading for another cookie consent moment?",
+      "url": "https://digital-strategy.ec.europa.eu/en/library/draft-guidelines-implementation-transparency-obligations-certain-ai-systems-under-article-50-ai-act",
+      "hn_url": "https://news.ycombinator.com/item?id=48082253",
+      "points": 3,
+      "num_comments": 0,
+      "author": "nilen",
+      "created_at": "2026-05-10T09:06:59Z",
+      "created_at_i": 1778404019,
+      "is_privesc": false,
+      "confidence": 0.99,
+      "severity": "low",
+      "cve": "",
+      "summary": "EU AI Act transparency guidelines discussion. Not related to Linux privilege escalation or security vulnerabilities."
+    },
     {
       "id": "48081448",
       "title": "Private Credit Isn't a Major Threat\u2013Probably",
