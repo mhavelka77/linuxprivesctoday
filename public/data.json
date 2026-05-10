@@ -1,10 +1,26 @@
 {
-  "generated_at": "2026-05-10T04:19:04+00:00",
+  "generated_at": "2026-05-10T08:23:45+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
   "total_privesc": 13,
-  "total_scanned": 73,
+  "total_scanned": 74,
   "items": [
+    {
+      "id": "48081448",
+      "title": "Private Credit Isn't a Major Threat\u2013Probably",
+      "url": "https://www.wsj.com/finance/investing/private-credit-financial-system-6039b39e",
+      "hn_url": "https://news.ycombinator.com/item?id=48081448",
+      "points": 1,
+      "num_comments": 0,
+      "author": "petethomas",
+      "created_at": "2026-05-10T06:15:02Z",
+      "created_at_i": 1778393702,
+      "is_privesc": false,
+      "confidence": 0.99,
+      "severity": "low",
+      "cve": "",
+      "summary": "Financial opinion piece about private credit markets and systemic risk. Not related to Linux privilege escalation or security vulnerabilities."
+    },
     {
       "id": "48078932",
       "title": "MoE-Hub Taming Software Complexity for Seamless MoE Overlap on Multi-GPU Systems",
