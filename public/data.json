@@ -1,10 +1,26 @@
 {
-  "generated_at": "2026-05-10T13:58:15+00:00",
+  "generated_at": "2026-05-10T16:13:07+00:00",
   "model": "anthropic/claude-haiku-4-5",
-  "today_count": 0,
-  "total_privesc": 13,
-  "total_scanned": 77,
+  "today_count": 1,
+  "total_privesc": 14,
+  "total_scanned": 78,
   "items": [
+    {
+      "id": "48084464",
+      "title": "'Dirty Frag' Linux flaw one-ups CopyFail with no patches and public root exploit",
+      "url": "https://www.theregister.com/security/2026/05/08/dirty-frag-linux-flaw-one-ups-copyfail-with-no-patches-and-public-root-exploit/5237230",
+      "hn_url": "https://news.ycombinator.com/item?id=48084464",
+      "points": 3,
+      "num_comments": 0,
+      "author": "Bender",
+      "created_at": "2026-05-10T14:51:15Z",
+      "created_at_i": 1778424675,
+      "is_privesc": true,
+      "confidence": 0.95,
+      "severity": "critical",
+      "cve": "",
+      "summary": "Dirty Frag is a Linux kernel LPE vulnerability with public root exploit and no patches available. Escalates unprivileged user to root access."
+    },
     {
       "id": "48083276",
       "title": "The Shadow Admin Threat: AI Agents Creating Undetectable Backdoors",
