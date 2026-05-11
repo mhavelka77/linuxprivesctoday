@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-10T22:07:44+00:00",
+  "generated_at": "2026-05-11T04:39:57+00:00",
   "model": "anthropic/claude-haiku-4-5",
-  "today_count": 1,
+  "today_count": 0,
   "total_privesc": 14,
   "total_scanned": 80,
   "items": [
