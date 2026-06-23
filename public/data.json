@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-23T10:05:38+00:00",
+  "generated_at": "2026-06-23T15:26:49+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
   "total_privesc": 15,
-  "total_scanned": 85,
+  "total_scanned": 83,
   "items": [
     {
       "id": "48096461",
@@ -1332,38 +1332,6 @@
       "severity": "low",
       "cve": "",
       "summary": "Home server OS project showcase. Not a security vulnerability or privilege escalation disclosure."
-    },
-    {
-      "id": "47890073",
-      "title": "Show HN: MeshCore Plays Pok\u00e9mon: Collaborative Pok\u00e9mon, no internet required",
-      "url": "https://github.com/IdreesInc/PokeMesh",
-      "hn_url": "https://news.ycombinator.com/item?id=47890073",
-      "points": 3,
-      "num_comments": 0,
-      "author": "IdreesInc",
-      "created_at": "2026-04-24T13:34:48Z",
-      "created_at_i": 1777037688,
-      "is_privesc": false,
-      "confidence": 0.99,
-      "severity": "low",
-      "cve": "",
-      "summary": "A collaborative Pok\u00e9mon game using mesh networking, unrelated to Linux privilege escalation or security vulnerabilities."
-    },
-    {
-      "id": "47888694",
-      "title": "8087 Emulation on 8086 Systems",
-      "url": "https://www.os2museum.com/wp/learn-something-old-every-day-part-xx-8087-emulation-on-8086-systems/",
-      "hn_url": "https://news.ycombinator.com/item?id=47888694",
-      "points": 67,
-      "num_comments": 33,
-      "author": "ingve",
-      "created_at": "2026-04-24T11:27:14Z",
-      "created_at_i": 1777030034,
-      "is_privesc": false,
-      "confidence": 0.98,
-      "severity": "low",
-      "cve": "",
-      "summary": "Historical article about 8087 floating-point coprocessor emulation on 8086 systems. Retro computing topic with no security implications."
     }
   ]
 }
