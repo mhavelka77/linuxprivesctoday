@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-24T20:13:05+00:00",
+  "generated_at": "2026-06-24T22:41:20+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
   "total_privesc": 15,
-  "total_scanned": 82,
+  "total_scanned": 81,
   "items": [
     {
       "id": "48096461",
@@ -1300,22 +1300,6 @@
       "severity": "low",
       "cve": "",
       "summary": "A two-player turn-based board game. Not related to Linux privilege escalation or security vulnerabilities."
-    },
-    {
-      "id": "47904755",
-      "title": "Show HN: LawVM, a compiler for replaying amendment acts into point-in-time law",
-      "url": "https://lawvm.org/",
-      "hn_url": "https://news.ycombinator.com/item?id=47904755",
-      "points": 2,
-      "num_comments": 0,
-      "author": "ekns",
-      "created_at": "2026-04-25T21:38:06Z",
-      "created_at_i": 1777153086,
-      "is_privesc": false,
-      "confidence": 0.99,
-      "severity": "low",
-      "cve": "",
-      "summary": "LawVM is a compiler for legal document versioning and point-in-time law replay. Not related to Linux privilege escalation or security vulnerabilities."
     }
   ]
 }
