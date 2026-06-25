@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-25T20:23:49+00:00",
+  "generated_at": "2026-06-25T22:50:02+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
   "total_privesc": 15,
-  "total_scanned": 81,
+  "total_scanned": 80,
   "items": [
     {
       "id": "48096461",
@@ -1284,22 +1284,6 @@
       "severity": "low",
       "cve": "",
       "summary": "GPU monitoring tool project. Not related to Linux privilege escalation vulnerabilities or exploits."
-    },
-    {
-      "id": "47914369",
-      "title": "Show HN: Tiao, A two-player turn-based board game",
-      "url": "https://playtiao.com",
-      "hn_url": "https://news.ycombinator.com/item?id=47914369",
-      "points": 77,
-      "num_comments": 38,
-      "author": "trebeljahr",
-      "created_at": "2026-04-26T20:59:07Z",
-      "created_at_i": 1777237147,
-      "is_privesc": false,
-      "confidence": 0.99,
-      "severity": "low",
-      "cve": "",
-      "summary": "A two-player turn-based board game. Not related to Linux privilege escalation or security vulnerabilities."
     }
   ]
 }
