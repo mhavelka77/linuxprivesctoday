@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-26T09:53:33+00:00",
+  "generated_at": "2026-06-26T15:04:22+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
   "total_privesc": 15,
-  "total_scanned": 80,
+  "total_scanned": 79,
   "items": [
     {
       "id": "48096461",
@@ -1268,22 +1268,6 @@
       "severity": "low",
       "cve": "",
       "summary": "Color palette tool for terminals and editors. Not a security vulnerability or privilege escalation issue."
-    },
-    {
-      "id": "47921626",
-      "title": "Show HN: Utilyze \u2013 an open source GPU monitoring tool more accurate than nvtop",
-      "url": "https://www.systalyze.com/utilyze",
-      "hn_url": "https://news.ycombinator.com/item?id=47921626",
-      "points": 128,
-      "num_comments": 28,
-      "author": "ManyaGhobadi",
-      "created_at": "2026-04-27T13:55:43Z",
-      "created_at_i": 1777298143,
-      "is_privesc": false,
-      "confidence": 0.98,
-      "severity": "low",
-      "cve": "",
-      "summary": "GPU monitoring tool project. Not related to Linux privilege escalation vulnerabilities or exploits."
     }
   ]
 }
