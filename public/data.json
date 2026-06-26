@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-26T15:04:22+00:00",
+  "generated_at": "2026-06-26T17:11:08+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
   "total_privesc": 15,
-  "total_scanned": 79,
+  "total_scanned": 78,
   "items": [
     {
       "id": "48096461",
@@ -1252,22 +1252,6 @@
       "severity": "low",
       "cve": "",
       "summary": "Rocky is a Rust SQL engine with branching and replay features. Not a security vulnerability or privilege escalation issue."
-    },
-    {
-      "id": "47923457",
-      "title": "Show HN: Slatewave \u2013 a single color palette across terminals, editors, and apps",
-      "url": "https://getslatewave.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=47923457",
-      "points": 4,
-      "num_comments": 1,
-      "author": "kevinlangleyjr",
-      "created_at": "2026-04-27T16:10:27Z",
-      "created_at_i": 1777306227,
-      "is_privesc": false,
-      "confidence": 0.99,
-      "severity": "low",
-      "cve": "",
-      "summary": "Color palette tool for terminals and editors. Not a security vulnerability or privilege escalation issue."
     }
   ]
 }
