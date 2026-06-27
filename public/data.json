@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-27T16:34:10+00:00",
+  "generated_at": "2026-06-27T19:47:25+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
   "total_privesc": 15,
-  "total_scanned": 76,
+  "total_scanned": 75,
   "items": [
     {
       "id": "48096461",
@@ -1204,22 +1204,6 @@
       "severity": "low",
       "cve": "",
       "summary": "AI agent project demonstrating session memory without chat history. Not related to Linux privilege escalation or security vulnerabilities."
-    },
-    {
-      "id": "47937814",
-      "title": "Reverse Engineering SimTower",
-      "url": "https://phulin.me/blog/simtower",
-      "hn_url": "https://news.ycombinator.com/item?id=47937814",
-      "points": 259,
-      "num_comments": 73,
-      "author": "patrickhulin",
-      "created_at": "2026-04-28T17:41:38Z",
-      "created_at_i": 1777398098,
-      "is_privesc": false,
-      "confidence": 0.99,
-      "severity": "low",
-      "cve": "",
-      "summary": "Reverse engineering analysis of the SimTower game. Not related to Linux privilege escalation or security vulnerabilities."
     }
   ]
 }
