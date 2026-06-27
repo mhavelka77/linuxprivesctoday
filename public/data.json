@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-27T19:47:25+00:00",
+  "generated_at": "2026-06-27T22:31:06+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
   "total_privesc": 15,
-  "total_scanned": 75,
+  "total_scanned": 74,
   "items": [
     {
       "id": "48096461",
@@ -1188,22 +1188,6 @@
       "severity": "low",
       "cve": "",
       "summary": "GitHub issue about Claude Code subagent behavior regression, unrelated to Linux privilege escalation or security vulnerabilities."
-    },
-    {
-      "id": "47940150",
-      "title": "Show HN: An agent that remembers across sessions (no chat history)",
-      "url": "https://github.com/umbecanessa/neural-ledger-system",
-      "hn_url": "https://news.ycombinator.com/item?id=47940150",
-      "points": 1,
-      "num_comments": 0,
-      "author": "wasnaga",
-      "created_at": "2026-04-28T20:22:41Z",
-      "created_at_i": 1777407761,
-      "is_privesc": false,
-      "confidence": 0.98,
-      "severity": "low",
-      "cve": "",
-      "summary": "AI agent project demonstrating session memory without chat history. Not related to Linux privilege escalation or security vulnerabilities."
     }
   ]
 }
