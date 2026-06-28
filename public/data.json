@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-27T22:31:06+00:00",
+  "generated_at": "2026-06-28T04:55:24+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
   "total_privesc": 15,
-  "total_scanned": 74,
+  "total_scanned": 73,
   "items": [
     {
       "id": "48096461",
@@ -1172,22 +1172,6 @@
       "severity": "low",
       "cve": "",
       "summary": "A transparent Tor proxy tool for Linux. Not a privilege escalation vulnerability or exploit."
-    },
-    {
-      "id": "47942492",
-      "title": "Regression: malware reminder on every read still causes subagent refusals",
-      "url": "https://github.com/anthropics/claude-code/issues/49363",
-      "hn_url": "https://news.ycombinator.com/item?id=47942492",
-      "points": 252,
-      "num_comments": 147,
-      "author": "thomashobohm",
-      "created_at": "2026-04-28T23:59:57Z",
-      "created_at_i": 1777420797,
-      "is_privesc": false,
-      "confidence": 0.99,
-      "severity": "low",
-      "cve": "",
-      "summary": "GitHub issue about Claude Code subagent behavior regression, unrelated to Linux privilege escalation or security vulnerabilities."
     }
   ]
 }
