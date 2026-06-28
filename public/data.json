@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-28T09:35:06+00:00",
+  "generated_at": "2026-06-28T14:18:30+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
   "total_privesc": 15,
-  "total_scanned": 73,
+  "total_scanned": 72,
   "items": [
     {
       "id": "48096461",
@@ -1156,22 +1156,6 @@
       "severity": "low",
       "cve": "",
       "summary": "Open-source RAG (Retrieval-Augmented Generation) system with pluggable connectors and chat UI. Not a security vulnerability or privilege escalation issue."
-    },
-    {
-      "id": "47947541",
-      "title": "Show HN: Stateless, system-wide Transparent Tor Proxy for Linux (v0.1.0)",
-      "url": "https://github.com/onyks-os/TransparentTorProxy",
-      "hn_url": "https://news.ycombinator.com/item?id=47947541",
-      "points": 2,
-      "num_comments": 0,
-      "author": "onyks",
-      "created_at": "2026-04-29T12:44:39Z",
-      "created_at_i": 1777466679,
-      "is_privesc": false,
-      "confidence": 0.98,
-      "severity": "low",
-      "cve": "",
-      "summary": "A transparent Tor proxy tool for Linux. Not a privilege escalation vulnerability or exploit."
     }
   ]
 }
