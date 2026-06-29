@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-29T20:17:15+00:00",
+  "generated_at": "2026-06-29T22:33:11+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
   "total_privesc": 14,
-  "total_scanned": 65,
+  "total_scanned": 64,
   "items": [
     {
       "id": "48096461",
@@ -1028,22 +1028,6 @@
       "severity": "high",
       "cve": "CVE-2026-31431",
       "summary": "Linux kernel local privilege escalation vulnerability (CVE-2026-31431 'Copy Fail'). Affects kernel memory copy operations, enabling unprivileged users to escalate privileges."
-    },
-    {
-      "id": "47968112",
-      "title": "Show HN: Pu.sh \u2013 a full coding-agent harness in 400 lines of shell",
-      "url": "https://pu.dev/",
-      "hn_url": "https://news.ycombinator.com/item?id=47968112",
-      "points": 92,
-      "num_comments": 28,
-      "author": "nahimn",
-      "created_at": "2026-04-30T20:55:12Z",
-      "created_at_i": 1777582512,
-      "is_privesc": false,
-      "confidence": 0.98,
-      "severity": "low",
-      "cve": "",
-      "summary": "A shell-based coding agent framework project. Not related to Linux privilege escalation vulnerabilities or exploits."
     }
   ]
 }
