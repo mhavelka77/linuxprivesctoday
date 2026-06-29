@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-29T16:13:26+00:00",
+  "generated_at": "2026-06-29T20:17:15+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
-  "total_privesc": 15,
-  "total_scanned": 68,
+  "total_privesc": 14,
+  "total_scanned": 65,
   "items": [
     {
       "id": "48096461",
@@ -1044,54 +1044,6 @@
       "severity": "low",
       "cve": "",
       "summary": "A shell-based coding agent framework project. Not related to Linux privilege escalation vulnerabilities or exploits."
-    },
-    {
-      "id": "47965572",
-      "title": "Vulnerability Lets Privilege Escalation to Root on Major Linux Distros Est. 2017",
-      "url": "https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/",
-      "hn_url": "https://news.ycombinator.com/item?id=47965572",
-      "points": 2,
-      "num_comments": 0,
-      "author": "ZeidJ",
-      "created_at": "2026-04-30T17:20:39Z",
-      "created_at_i": 1777569639,
-      "is_privesc": true,
-      "confidence": 0.85,
-      "severity": "critical",
-      "cve": "",
-      "summary": "Linux privilege escalation vulnerability affecting major distributions, allowing unprivileged users to gain root access. Estimated discovery date 2017."
-    },
-    {
-      "id": "47965519",
-      "title": "High Vulnerability in the Linux Kernel (\"Copy Fail\")",
-      "url": "https://cert.europa.eu/publications/security-advisories/2026-005/",
-      "hn_url": "https://news.ycombinator.com/item?id=47965519",
-      "points": 2,
-      "num_comments": 1,
-      "author": "bwidlar",
-      "created_at": "2026-04-30T17:15:42Z",
-      "created_at_i": 1777569342,
-      "is_privesc": false,
-      "confidence": 0.35,
-      "severity": "high",
-      "cve": "",
-      "summary": "European CERT advisory on Linux kernel vulnerability called 'Copy Fail'. Insufficient detail in title/URL to confirm LPE qualification; appears to be a general kernel vulnerability without confirmed privilege escalation vector."
-    },
-    {
-      "id": "47965108",
-      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
-      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "hn_url": "https://news.ycombinator.com/item?id=47965108",
-      "points": 599,
-      "num_comments": 548,
-      "author": "ori_b",
-      "created_at": "2026-04-30T16:43:47Z",
-      "created_at_i": 1777567427,
-      "is_privesc": false,
-      "confidence": 0.95,
-      "severity": "low",
-      "cve": "",
-      "summary": "Opinion piece discussing lack of advance notification to Linux distributions about kernel vulnerabilities. Not about a specific LPE vulnerability or exploit."
     }
   ]
 }
