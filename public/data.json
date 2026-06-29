@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-29T11:25:32+00:00",
+  "generated_at": "2026-06-29T16:13:26+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
   "total_privesc": 15,
-  "total_scanned": 71,
+  "total_scanned": 68,
   "items": [
     {
       "id": "48096461",
@@ -1092,54 +1092,6 @@
       "severity": "low",
       "cve": "",
       "summary": "Opinion piece discussing lack of advance notification to Linux distributions about kernel vulnerabilities. Not about a specific LPE vulnerability or exploit."
-    },
-    {
-      "id": "47964308",
-      "title": "No System Is Always Safe",
-      "url": "https://www.loginline.com/en/blog/cve-2026-31431",
-      "hn_url": "https://news.ycombinator.com/item?id=47964308",
-      "points": 1,
-      "num_comments": 0,
-      "author": "JasonHEIN",
-      "created_at": "2026-04-30T15:50:24Z",
-      "created_at_i": 1777564224,
-      "is_privesc": false,
-      "confidence": 0.85,
-      "severity": "low",
-      "cve": "",
-      "summary": "Opinion/editorial piece about system security. No specific Linux LPE vulnerability, exploit, or technical disclosure identified."
-    },
-    {
-      "id": "47964097",
-      "title": "A new (in-dev) block-level active-active replication solution for Linux kernel",
-      "url": "https://github.com/ionos-cloud/RMR",
-      "hn_url": "https://news.ycombinator.com/item?id=47964097",
-      "points": 1,
-      "num_comments": 1,
-      "author": "haris3301",
-      "created_at": "2026-04-30T15:35:39Z",
-      "created_at_i": 1777563339,
-      "is_privesc": false,
-      "confidence": 0.98,
-      "severity": "low",
-      "cve": "",
-      "summary": "Block-level active-active replication solution for Linux kernel. Infrastructure/storage technology, not a privilege escalation vulnerability or exploit."
-    },
-    {
-      "id": "47962629",
-      "title": "Show HN: You can now run Gemini CLI in the browser",
-      "url": "https://browsercode.io",
-      "hn_url": "https://news.ycombinator.com/item?id=47962629",
-      "points": 5,
-      "num_comments": 0,
-      "author": "apignotti",
-      "created_at": "2026-04-30T13:59:58Z",
-      "created_at_i": 1777557598,
-      "is_privesc": false,
-      "confidence": 0.99,
-      "severity": "low",
-      "cve": "",
-      "summary": "Browser-based CLI tool for running Gemini. Not a Linux privilege escalation vulnerability or exploit."
     }
   ]
 }
