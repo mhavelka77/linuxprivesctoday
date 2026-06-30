@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-29T22:33:11+00:00",
+  "generated_at": "2026-06-30T04:36:36+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
-  "total_privesc": 14,
-  "total_scanned": 64,
+  "total_privesc": 13,
+  "total_scanned": 62,
   "items": [
     {
       "id": "48096461",
@@ -996,38 +996,6 @@
       "severity": "low",
       "cve": "",
       "summary": "Game client porting project for Old School Runescape using LWJGL 3 graphics library. Not related to privilege escalation or security vulnerabilities."
-    },
-    {
-      "id": "47970747",
-      "title": "Show HN: Vibe, a single-header C networking library for Linux",
-      "url": "https://github.com/xtellect/vibe",
-      "hn_url": "https://news.ycombinator.com/item?id=47970747",
-      "points": 4,
-      "num_comments": 0,
-      "author": "enduku",
-      "created_at": "2026-05-01T02:33:37Z",
-      "created_at_i": 1777602817,
-      "is_privesc": false,
-      "confidence": 0.98,
-      "severity": "low",
-      "cve": "",
-      "summary": "A single-header C networking library for Linux. Not related to privilege escalation or security vulnerabilities."
-    },
-    {
-      "id": "47970355",
-      "title": "CVE-2026-31431 (Copy Fail): Linux Kernel LPE",
-      "url": "https://securityboulevard.com/2026/04/cve-2026-31431-copy-fail-linux-kernel-lpe/",
-      "hn_url": "https://news.ycombinator.com/item?id=47970355",
-      "points": 2,
-      "num_comments": 1,
-      "author": "dnemmers",
-      "created_at": "2026-05-01T01:25:35Z",
-      "created_at_i": 1777598735,
-      "is_privesc": true,
-      "confidence": 0.95,
-      "severity": "high",
-      "cve": "CVE-2026-31431",
-      "summary": "Linux kernel local privilege escalation vulnerability (CVE-2026-31431 'Copy Fail'). Affects kernel memory copy operations, enabling unprivileged users to escalate privileges."
     }
   ]
 }
