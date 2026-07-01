@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-01T15:14:27+00:00",
+  "generated_at": "2026-07-01T17:25:36+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
-  "total_privesc": 12,
-  "total_scanned": 56,
+  "total_privesc": 11,
+  "total_scanned": 55,
   "items": [
     {
       "id": "48096461",
@@ -884,22 +884,6 @@
       "severity": "low",
       "cve": "",
       "summary": "Sentient OS is a product announcement for an on-device intelligence layer. Not a security vulnerability, exploit, or LPE disclosure."
-    },
-    {
-      "id": "47988077",
-      "title": "CISA KEV: Linux \"Copy Fail\" CVE-2026-31431 Turns Kernel Bug into Patch Deadline",
-      "url": "https://windowsforum.com/threads/cisa-kev-linux-copy-fail-cve-2026-31431-turns-kernel-bug-into-patch-deadline.416289/",
-      "hn_url": "https://news.ycombinator.com/item?id=47988077",
-      "points": 1,
-      "num_comments": 0,
-      "author": "eth0up",
-      "created_at": "2026-05-02T16:54:07Z",
-      "created_at_i": 1777740847,
-      "is_privesc": true,
-      "confidence": 0.85,
-      "severity": "high",
-      "cve": "CVE-2026-31431",
-      "summary": "Linux kernel bug CVE-2026-31431 'Copy Fail' added to CISA KEV catalog with patch deadline, indicating a privilege escalation vulnerability requiring urgent remediation."
     }
   ]
 }
