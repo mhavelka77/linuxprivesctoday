@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-30T22:42:51+00:00",
+  "generated_at": "2026-07-01T04:56:08+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
-  "total_privesc": 13,
-  "total_scanned": 59,
+  "total_privesc": 12,
+  "total_scanned": 57,
   "items": [
     {
       "id": "48096461",
@@ -916,38 +916,6 @@
       "severity": "low",
       "cve": "",
       "summary": "Mljar Studio is a local AI data analyst tool that saves analysis as notebooks. Not related to Linux privilege escalation or security vulnerabilities."
-    },
-    {
-      "id": "47982708",
-      "title": "Show HN: Agent-desktop \u2013 Native desktop automation CLI for AI agents",
-      "url": "https://github.com/lahfir/agent-desktop",
-      "hn_url": "https://news.ycombinator.com/item?id=47982708",
-      "points": 98,
-      "num_comments": 43,
-      "author": "lahfir",
-      "created_at": "2026-05-02T02:18:24Z",
-      "created_at_i": 1777688304,
-      "is_privesc": false,
-      "confidence": 0.98,
-      "severity": "low",
-      "cve": "",
-      "summary": "Desktop automation CLI tool for AI agents. Not a security vulnerability or privilege escalation issue."
-    },
-    {
-      "id": "47981536",
-      "title": "Copy-Fail: Linux Privilege Escalation",
-      "url": "https://copy.fail/#affected",
-      "hn_url": "https://news.ycombinator.com/item?id=47981536",
-      "points": 2,
-      "num_comments": 1,
-      "author": "joatmon-snoo",
-      "created_at": "2026-05-01T23:06:37Z",
-      "created_at_i": 1777676797,
-      "is_privesc": true,
-      "confidence": 0.85,
-      "severity": "high",
-      "cve": "",
-      "summary": "Linux privilege escalation vulnerability affecting copy operations. Details available at copy.fail website with affected systems list."
     }
   ]
 }
