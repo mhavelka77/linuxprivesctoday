@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-01T10:17:15+00:00",
+  "generated_at": "2026-07-01T15:14:27+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
   "total_privesc": 12,
-  "total_scanned": 57,
+  "total_scanned": 56,
   "items": [
     {
       "id": "48096461",
@@ -900,22 +900,6 @@
       "severity": "high",
       "cve": "CVE-2026-31431",
       "summary": "Linux kernel bug CVE-2026-31431 'Copy Fail' added to CISA KEV catalog with patch deadline, indicating a privilege escalation vulnerability requiring urgent remediation."
-    },
-    {
-      "id": "47985077",
-      "title": "Show HN: Mljar Studio \u2013 local AI data analyst that saves analysis as notebooks",
-      "url": "https://mljar.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=47985077",
-      "points": 71,
-      "num_comments": 18,
-      "author": "pplonski86",
-      "created_at": "2026-05-02T10:21:31Z",
-      "created_at_i": 1777717291,
-      "is_privesc": false,
-      "confidence": 0.99,
-      "severity": "low",
-      "cve": "",
-      "summary": "Mljar Studio is a local AI data analyst tool that saves analysis as notebooks. Not related to Linux privilege escalation or security vulnerabilities."
     }
   ]
 }
