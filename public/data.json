@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-01T17:25:36+00:00",
+  "generated_at": "2026-07-01T20:16:52+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
   "total_privesc": 11,
-  "total_scanned": 55,
+  "total_scanned": 54,
   "items": [
     {
       "id": "48096461",
@@ -868,22 +868,6 @@
       "severity": "low",
       "cve": "",
       "summary": "Enoch is a control plane for autonomous AI research systems. Not related to Linux privilege escalation, kernel vulnerabilities, or security exploits."
-    },
-    {
-      "id": "47989158",
-      "title": "Show HN: Sentient OS \u2013 On-device intelligence layer for your entire digital life",
-      "url": "https://sentient-os.ai",
-      "hn_url": "https://news.ycombinator.com/item?id=47989158",
-      "points": 3,
-      "num_comments": 2,
-      "author": "TechExpert2910",
-      "created_at": "2026-05-02T18:40:54Z",
-      "created_at_i": 1777747254,
-      "is_privesc": false,
-      "confidence": 0.98,
-      "severity": "low",
-      "cve": "",
-      "summary": "Sentient OS is a product announcement for an on-device intelligence layer. Not a security vulnerability, exploit, or LPE disclosure."
     }
   ]
 }
