@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-02T17:01:59+00:00",
+  "generated_at": "2026-07-02T19:55:19+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
   "total_privesc": 11,
-  "total_scanned": 52,
+  "total_scanned": 51,
   "items": [
     {
       "id": "48096461",
@@ -820,22 +820,6 @@
       "severity": "low",
       "cve": "",
       "summary": "AI product factory project. Not related to Linux privilege escalation, kernel bugs, or security vulnerabilities."
-    },
-    {
-      "id": "47999878",
-      "title": "The Croupier \u2013 AI-powered candidate discovery and ranking for recruiting teams",
-      "url": "https://dealers-choice-systems.vercel.app",
-      "hn_url": "https://news.ycombinator.com/item?id=47999878",
-      "points": 2,
-      "num_comments": 0,
-      "author": "Berlia",
-      "created_at": "2026-05-03T18:28:04Z",
-      "created_at_i": 1777832884,
-      "is_privesc": false,
-      "confidence": 0.99,
-      "severity": "low",
-      "cve": "",
-      "summary": "Recruiting software tool for candidate discovery and ranking. Not related to Linux privilege escalation or security vulnerabilities."
     }
   ]
 }
