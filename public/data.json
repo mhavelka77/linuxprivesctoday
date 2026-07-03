@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-03T14:33:50+00:00",
+  "generated_at": "2026-07-03T16:47:00+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
   "total_privesc": 11,
-  "total_scanned": 51,
+  "total_scanned": 50,
   "items": [
     {
       "id": "48096461",
@@ -804,22 +804,6 @@
       "severity": "low",
       "cve": "",
       "summary": "Opinion piece comparing Linux, Windows, and macOS for 2026. Not a security vulnerability or privilege escalation disclosure."
-    },
-    {
-      "id": "48010915",
-      "title": "Show HN: The Rouge is my attempt at an AI product factory",
-      "url": "https://github.com/gregario/the-rouge",
-      "hn_url": "https://news.ycombinator.com/item?id=48010915",
-      "points": 2,
-      "num_comments": 1,
-      "author": "gr3gario",
-      "created_at": "2026-05-04T16:29:14Z",
-      "created_at_i": 1777912154,
-      "is_privesc": false,
-      "confidence": 0.99,
-      "severity": "low",
-      "cve": "",
-      "summary": "AI product factory project. Not related to Linux privilege escalation, kernel bugs, or security vulnerabilities."
     }
   ]
 }
