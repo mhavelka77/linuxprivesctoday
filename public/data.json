@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-04T11:01:46+00:00",
+  "generated_at": "2026-07-04T14:02:06+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
   "total_privesc": 11,
-  "total_scanned": 49,
+  "total_scanned": 48,
   "items": [
     {
       "id": "48096461",
@@ -772,22 +772,6 @@
       "severity": "low",
       "cve": "",
       "summary": "Token usage meter tool for AI providers and coding agents. Not a security vulnerability or privilege escalation issue."
-    },
-    {
-      "id": "48022058",
-      "title": "A Caddy Cert Expired Because Systemd-Resolved Was Selectively Broken",
-      "url": "https://rant.mvh.dev/a-caddy-cert-expired-because-systemd-resolved-was-selectively-broken/",
-      "hn_url": "https://news.ycombinator.com/item?id=48022058",
-      "points": 2,
-      "num_comments": 0,
-      "author": "speckx",
-      "created_at": "2026-05-05T13:08:16Z",
-      "created_at_i": 1777986496,
-      "is_privesc": false,
-      "confidence": 0.95,
-      "severity": "low",
-      "cve": "",
-      "summary": "Post-mortem about Caddy certificate expiration due to systemd-resolved DNS issues. Not a privilege escalation vulnerability or exploit."
     }
   ]
 }
