@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-04T14:02:06+00:00",
+  "generated_at": "2026-07-04T16:17:46+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
   "total_privesc": 11,
-  "total_scanned": 48,
+  "total_scanned": 47,
   "items": [
     {
       "id": "48096461",
@@ -756,22 +756,6 @@
       "severity": "high",
       "cve": "CVE-2026-31431",
       "summary": "Linux kernel bug with significant blast radius affecting copy operations. Detailed technical write-up of vulnerability mechanics and potential exploitation vectors."
-    },
-    {
-      "id": "48024373",
-      "title": "Show HN: Token Usage Meter 12 Providers and Coding Agent",
-      "url": "https://qlaud.ai",
-      "hn_url": "https://news.ycombinator.com/item?id=48024373",
-      "points": 2,
-      "num_comments": 0,
-      "author": "Robelkidin",
-      "created_at": "2026-05-05T16:03:47Z",
-      "created_at_i": 1777997027,
-      "is_privesc": false,
-      "confidence": 0.99,
-      "severity": "low",
-      "cve": "",
-      "summary": "Token usage meter tool for AI providers and coding agents. Not a security vulnerability or privilege escalation issue."
     }
   ]
 }
