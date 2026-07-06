@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-06T11:06:54+00:00",
+  "generated_at": "2026-07-06T15:56:24+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
   "total_privesc": 10,
-  "total_scanned": 43,
+  "total_scanned": 40,
   "items": [
     {
       "id": "48096461",
@@ -644,54 +644,6 @@
       "severity": "low",
       "cve": "",
       "summary": "Multi-agent workflow system project. Not related to Linux privilege escalation, kernel bugs, or security vulnerabilities."
-    },
-    {
-      "id": "48050289",
-      "title": "Show HN: Gosd: High-performance Stable Diffusion inference in pure Go(no CGO)",
-      "url": "https://github.com/l8bloom/gosd",
-      "hn_url": "https://news.ycombinator.com/item?id=48050289",
-      "points": 1,
-      "num_comments": 0,
-      "author": "krakato",
-      "created_at": "2026-05-07T15:02:53Z",
-      "created_at_i": 1778166173,
-      "is_privesc": false,
-      "confidence": 0.99,
-      "severity": "low",
-      "cve": "",
-      "summary": "Gosd is a pure Go implementation of Stable Diffusion inference. Not related to Linux privilege escalation, kernel bugs, or security vulnerabilities."
-    },
-    {
-      "id": "48050060",
-      "title": "Show HN: MySigner \u2013 Ship iOS and Android apps with one command",
-      "url": "https://mysigner.dev/",
-      "hn_url": "https://news.ycombinator.com/item?id=48050060",
-      "points": 3,
-      "num_comments": 0,
-      "author": "lekacoding",
-      "created_at": "2026-05-07T14:41:24Z",
-      "created_at_i": 1778164884,
-      "is_privesc": false,
-      "confidence": 0.99,
-      "severity": "low",
-      "cve": "",
-      "summary": "MySigner is a development tool for shipping iOS and Android apps. Not a Linux privilege escalation vulnerability or exploit."
-    },
-    {
-      "id": "48048647",
-      "title": "Show HN: Memory system for AI agents with associations, forgetting, synthesis",
-      "url": "https://github.com/jarimustonen/formative-memory",
-      "hn_url": "https://news.ycombinator.com/item?id=48048647",
-      "points": 2,
-      "num_comments": 0,
-      "author": "jari_mustonen",
-      "created_at": "2026-05-07T12:37:31Z",
-      "created_at_i": 1778157451,
-      "is_privesc": false,
-      "confidence": 0.99,
-      "severity": "low",
-      "cve": "",
-      "summary": "AI memory system project for agents. Not related to Linux privilege escalation or security vulnerabilities."
     }
   ]
 }
