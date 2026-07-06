@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-05T22:15:18+00:00",
+  "generated_at": "2026-07-06T04:44:36+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
   "total_privesc": 10,
-  "total_scanned": 45,
+  "total_scanned": 44,
   "items": [
     {
       "id": "48096461",
@@ -708,22 +708,6 @@
       "severity": "low",
       "cve": "",
       "summary": "Appctl is an LLM tool for managing applications. Not a Linux privilege escalation vulnerability or exploit."
-    },
-    {
-      "id": "48045462",
-      "title": "pg_flight_recorder: Continuously sample PostgreSQL system state via pg_cron",
-      "url": "https://github.com/dventimisupabase/pg_flight_recorder",
-      "hn_url": "https://news.ycombinator.com/item?id=48045462",
-      "points": 2,
-      "num_comments": 0,
-      "author": "tanelpoder",
-      "created_at": "2026-05-07T04:42:15Z",
-      "created_at_i": 1778128935,
-      "is_privesc": false,
-      "confidence": 0.98,
-      "severity": "low",
-      "cve": "",
-      "summary": "PostgreSQL monitoring tool using pg_cron for continuous system state sampling. Not a privilege escalation vulnerability or exploit."
     }
   ]
 }
