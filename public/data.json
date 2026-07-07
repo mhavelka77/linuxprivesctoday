@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-07T15:18:42+00:00",
+  "generated_at": "2026-07-07T20:17:42+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
-  "total_privesc": 8,
-  "total_scanned": 29,
+  "total_privesc": 6,
+  "total_scanned": 25,
   "items": [
     {
       "id": "48096461",
@@ -404,70 +404,6 @@
       "severity": "low",
       "cve": "",
       "summary": "Everything Vault is a local-first Markdown knowledge system for LLMs. Not a security vulnerability or privilege escalation issue."
-    },
-    {
-      "id": "48067446",
-      "title": "Dirty Frag (CVE-2026-43284, CVE-2026-43500): Mitigation",
-      "url": "https://blog.cloudlinux.com/dirty-frag-mitigation-and-kernel-update",
-      "hn_url": "https://news.ycombinator.com/item?id=48067446",
-      "points": 2,
-      "num_comments": 0,
-      "author": "abdelhousni",
-      "created_at": "2026-05-08T19:14:56Z",
-      "created_at_i": 1778267696,
-      "is_privesc": true,
-      "confidence": 0.85,
-      "severity": "high",
-      "cve": "CVE-2026-43284",
-      "summary": "Dirty Frag kernel vulnerability mitigation and updates. Linux LPE affecting memory fragmentation handling with privilege escalation potential."
-    },
-    {
-      "id": "48065885",
-      "title": "Write Linux-PAM's Authentication Modules in GNU Guile",
-      "url": "https://juix.org/manuals/guile-pam.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48065885",
-      "points": 1,
-      "num_comments": 0,
-      "author": "lechner",
-      "created_at": "2026-05-08T17:05:27Z",
-      "created_at_i": 1778259927,
-      "is_privesc": false,
-      "confidence": 0.95,
-      "severity": "low",
-      "cve": "",
-      "summary": "Tutorial on writing Linux-PAM authentication modules using GNU Guile. Educational content about PAM programming, not a vulnerability disclosure or exploit."
-    },
-    {
-      "id": "48065526",
-      "title": "Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux",
-      "url": "https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml",
-      "hn_url": "https://news.ycombinator.com/item?id=48065526",
-      "points": 2,
-      "num_comments": 0,
-      "author": "speckx",
-      "created_at": "2026-05-08T16:40:55Z",
-      "created_at_i": 1778258455,
-      "is_privesc": false,
-      "confidence": 0.99,
-      "severity": "low",
-      "cve": "",
-      "summary": "Opinion piece about Linux Foundation budget allocation. Not a security vulnerability or privilege escalation disclosure."
-    },
-    {
-      "id": "48065260",
-      "title": "Debian: Linux Vulnerability Mitigation (Dirty Frag)",
-      "url": "https://blog.daniel-baumann.ch/posts/20260508-1.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48065260",
-      "points": 1,
-      "num_comments": 0,
-      "author": "speckx",
-      "created_at": "2026-05-08T16:22:15Z",
-      "created_at_i": 1778257335,
-      "is_privesc": true,
-      "confidence": 0.75,
-      "severity": "high",
-      "cve": "",
-      "summary": "Debian security advisory addressing Linux vulnerability mitigation for Dirty Frag, a local privilege escalation affecting memory management."
     }
   ]
 }
