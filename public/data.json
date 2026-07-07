@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-06T22:40:16+00:00",
+  "generated_at": "2026-07-07T04:26:56+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
   "total_privesc": 9,
-  "total_scanned": 35,
+  "total_scanned": 32,
   "items": [
     {
       "id": "48096461",
@@ -516,54 +516,6 @@
       "severity": "low",
       "cve": "",
       "summary": "Discussion about UUID v4 collision occurrence. Not related to Linux privilege escalation, kernel bugs, or security vulnerabilities."
-    },
-    {
-      "id": "48058330",
-      "title": "Coming of Age",
-      "url": "https://dirt.fyi/article/2026/05/coming-of-age",
-      "hn_url": "https://news.ycombinator.com/item?id=48058330",
-      "points": 3,
-      "num_comments": 0,
-      "author": "colinprince",
-      "created_at": "2026-05-08T03:51:20Z",
-      "created_at_i": 1778212280,
-      "is_privesc": false,
-      "confidence": 0.95,
-      "severity": "low",
-      "cve": "",
-      "summary": "Opinion or narrative piece unrelated to Linux privilege escalation vulnerabilities or exploits."
-    },
-    {
-      "id": "48057908",
-      "title": "Show HN: Loxai.tech and Neutboom \u2013 Gen AI's frontier of individuality",
-      "url": "https://www.neutboom.com",
-      "hn_url": "https://news.ycombinator.com/item?id=48057908",
-      "points": 1,
-      "num_comments": 0,
-      "author": "audreyfei",
-      "created_at": "2026-05-08T02:50:10Z",
-      "created_at_i": 1778208610,
-      "is_privesc": false,
-      "confidence": 0.99,
-      "severity": "low",
-      "cve": "",
-      "summary": "Show HN post about Loxai.tech and Neutboom, generative AI projects. Not related to Linux privilege escalation or security vulnerabilities."
-    },
-    {
-      "id": "48056267",
-      "title": "Show HN: Blamo A vibecoded app for vibecoding vibe games",
-      "url": "https://www.blamo.ai/",
-      "hn_url": "https://news.ycombinator.com/item?id=48056267",
-      "points": 8,
-      "num_comments": 9,
-      "author": "semateos",
-      "created_at": "2026-05-07T23:06:24Z",
-      "created_at_i": 1778195184,
-      "is_privesc": false,
-      "confidence": 0.99,
-      "severity": "low",
-      "cve": "",
-      "summary": "Blamo is a vibecoded app for vibecoding vibe games. Not a security vulnerability or Linux privilege escalation issue."
     }
   ]
 }
