@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-07T04:26:56+00:00",
+  "generated_at": "2026-07-07T10:02:19+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
-  "total_privesc": 9,
-  "total_scanned": 32,
+  "total_privesc": 8,
+  "total_scanned": 30,
   "items": [
     {
       "id": "48096461",
@@ -484,38 +484,6 @@
       "severity": "low",
       "cve": "",
       "summary": "Human Rights Watch report on Meta's content moderation practices regarding Palestine-related content on Instagram and Facebook. Not a security or privilege escalation issue."
-    },
-    {
-      "id": "48060952",
-      "title": "'Dirty Frag' exploit leaks out, gives root on most Linux machines",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/dirty-frag-exploit-gets-root-on-most-linux-machines-since-2017-no-patches-available-no-warning-given-copy-fail-like-vulnerability-had-its-embargo-broken",
-      "hn_url": "https://news.ycombinator.com/item?id=48060952",
-      "points": 7,
-      "num_comments": 1,
-      "author": "lschueller",
-      "created_at": "2026-05-08T09:59:35Z",
-      "created_at_i": 1778234375,
-      "is_privesc": true,
-      "confidence": 0.95,
-      "severity": "critical",
-      "cve": "",
-      "summary": "Dirty Frag exploit disclosed, provides root privilege escalation on Linux systems since 2017. No patches available at disclosure time. Affects most Linux machines."
-    },
-    {
-      "id": "48060054",
-      "title": "Ask HN: We just had an actual UUID v4 collision...",
-      "url": "https://news.ycombinator.com/item?id=48060054",
-      "hn_url": "https://news.ycombinator.com/item?id=48060054",
-      "points": 199,
-      "num_comments": 187,
-      "author": "mittermayr",
-      "created_at": "2026-05-08T07:57:14Z",
-      "created_at_i": 1778227034,
-      "is_privesc": false,
-      "confidence": 0.99,
-      "severity": "low",
-      "cve": "",
-      "summary": "Discussion about UUID v4 collision occurrence. Not related to Linux privilege escalation, kernel bugs, or security vulnerabilities."
     }
   ]
 }
