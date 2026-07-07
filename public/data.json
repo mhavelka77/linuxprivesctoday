@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-07T10:02:19+00:00",
+  "generated_at": "2026-07-07T15:18:42+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
   "total_privesc": 8,
-  "total_scanned": 30,
+  "total_scanned": 29,
   "items": [
     {
       "id": "48096461",
@@ -468,22 +468,6 @@
       "severity": "high",
       "cve": "",
       "summary": "Debian security advisory addressing Linux vulnerability mitigation for Dirty Frag, a local privilege escalation affecting memory management."
-    },
-    {
-      "id": "48063372",
-      "title": "Meta's Broken Promises (2023)",
-      "url": "https://www.hrw.org/report/2023/12/21/metas-broken-promises/systemic-censorship-palestine-content-instagram-and",
-      "hn_url": "https://news.ycombinator.com/item?id=48063372",
-      "points": 1,
-      "num_comments": 0,
-      "author": "ciconia",
-      "created_at": "2026-05-08T14:05:33Z",
-      "created_at_i": 1778249133,
-      "is_privesc": false,
-      "confidence": 0.99,
-      "severity": "low",
-      "cve": "",
-      "summary": "Human Rights Watch report on Meta's content moderation practices regarding Palestine-related content on Instagram and Facebook. Not a security or privilege escalation issue."
     }
   ]
 }
