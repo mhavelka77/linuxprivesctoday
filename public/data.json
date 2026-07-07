@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-07T20:17:42+00:00",
+  "generated_at": "2026-07-07T22:32:57+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
-  "total_privesc": 6,
-  "total_scanned": 25,
+  "total_privesc": 5,
+  "total_scanned": 22,
   "items": [
     {
       "id": "48096461",
@@ -356,54 +356,6 @@
       "severity": "low",
       "cve": "",
       "summary": "Tesla Model Y passes NHTSA safety tests for advanced driver assistance systems. Not related to Linux privilege escalation or security vulnerabilities."
-    },
-    {
-      "id": "48068583",
-      "title": "Show HN: Cyoda-go \u2013 application platform in Go without the Temporal/Kafka glue",
-      "url": "https://github.com/Cyoda-platform/cyoda-go",
-      "hn_url": "https://news.ycombinator.com/item?id=48068583",
-      "points": 1,
-      "num_comments": 0,
-      "author": "physix",
-      "created_at": "2026-05-08T20:45:34Z",
-      "created_at_i": 1778273134,
-      "is_privesc": false,
-      "confidence": 0.98,
-      "severity": "low",
-      "cve": "",
-      "summary": "Application platform framework in Go. Not related to Linux privilege escalation, kernel vulnerabilities, or security exploits."
-    },
-    {
-      "id": "48068475",
-      "title": "Dirty Frag: Universal Linux LPE",
-      "url": "https://github.com/V4bel/dirtyfrag",
-      "hn_url": "https://news.ycombinator.com/item?id=48068475",
-      "points": 18,
-      "num_comments": 1,
-      "author": "unbeli",
-      "created_at": "2026-05-08T20:36:51Z",
-      "created_at_i": 1778272611,
-      "is_privesc": true,
-      "confidence": 0.95,
-      "severity": "critical",
-      "cve": "",
-      "summary": "Dirty Frag is a universal Linux local privilege escalation exploit affecting multiple kernel versions. Public PoC available on GitHub demonstrating kernel vulnerability exploitation."
-    },
-    {
-      "id": "48068308",
-      "title": "Everything Vault \u2013 a local-first Markdown knowledge system for LLMs",
-      "url": "https://github.com/AntlerForge/everything-vault",
-      "hn_url": "https://news.ycombinator.com/item?id=48068308",
-      "points": 3,
-      "num_comments": 0,
-      "author": "AntlerForge",
-      "created_at": "2026-05-08T20:23:09Z",
-      "created_at_i": 1778271789,
-      "is_privesc": false,
-      "confidence": 0.99,
-      "severity": "low",
-      "cve": "",
-      "summary": "Everything Vault is a local-first Markdown knowledge system for LLMs. Not a security vulnerability or privilege escalation issue."
     }
   ]
 }
