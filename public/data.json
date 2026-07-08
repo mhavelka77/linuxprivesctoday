@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-08T14:43:02+00:00",
+  "generated_at": "2026-07-08T16:52:18+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
   "total_privesc": 3,
-  "total_scanned": 18,
+  "total_scanned": 15,
   "items": [
     {
       "id": "48096461",
@@ -244,54 +244,6 @@
       "severity": "low",
       "cve": "",
       "summary": "A Clojure-like programming language implementation in Go. Not related to Linux privilege escalation or security vulnerabilities."
-    },
-    {
-      "id": "48076159",
-      "title": "Darwinian \u2013 A self-evolving system optimizer written in Rust",
-      "url": "https://github.com/skorotkiewicz/darwinian_cleaner",
-      "hn_url": "https://news.ycombinator.com/item?id=48076159",
-      "points": 1,
-      "num_comments": 0,
-      "author": "modinfo",
-      "created_at": "2026-05-09T16:25:30Z",
-      "created_at_i": 1778343930,
-      "is_privesc": false,
-      "confidence": 0.98,
-      "severity": "low",
-      "cve": "",
-      "summary": "Darwinian is a system optimizer tool written in Rust. Not related to Linux privilege escalation vulnerabilities or exploits."
-    },
-    {
-      "id": "48076137",
-      "title": "Show HN: My AI agents bully each other to prevent context drift",
-      "url": "https://wuphf.team",
-      "hn_url": "https://news.ycombinator.com/item?id=48076137",
-      "points": 3,
-      "num_comments": 0,
-      "author": "najmuzzaman",
-      "created_at": "2026-05-09T16:22:23Z",
-      "created_at_i": 1778343743,
-      "is_privesc": false,
-      "confidence": 0.99,
-      "severity": "low",
-      "cve": "",
-      "summary": "AI agents project about preventing context drift through competitive interaction. Not related to Linux privilege escalation or security vulnerabilities."
-    },
-    {
-      "id": "48075767",
-      "title": "Linux mascot Tux the penguin hits 30 years old",
-      "url": "https://www.tomshardware.com/software/linux/linux-mascot-tux-the-penguin-hits-30-years-old-linus-torvalds-outlined-the-design-of-the-slightly-overweight-penguin-on-may-9-1996",
-      "hn_url": "https://news.ycombinator.com/item?id=48075767",
-      "points": 1,
-      "num_comments": 0,
-      "author": "LorenDB",
-      "created_at": "2026-05-09T15:31:49Z",
-      "created_at_i": 1778340709,
-      "is_privesc": false,
-      "confidence": 0.99,
-      "severity": "low",
-      "cve": "",
-      "summary": "Article about Linux mascot Tux the penguin's 30th anniversary. Not a security vulnerability or privilege escalation disclosure."
     }
   ]
 }
