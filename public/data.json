@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-08T11:18:55+00:00",
+  "generated_at": "2026-07-08T14:43:02+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
   "total_privesc": 3,
-  "total_scanned": 19,
+  "total_scanned": 18,
   "items": [
     {
       "id": "48096461",
@@ -292,22 +292,6 @@
       "severity": "low",
       "cve": "",
       "summary": "Article about Linux mascot Tux the penguin's 30th anniversary. Not a security vulnerability or privilege escalation disclosure."
-    },
-    {
-      "id": "48075059",
-      "title": "Show HN: Mochi.js: bun-native high-fidelity browser automation library",
-      "url": "https://mochijs.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=48075059",
-      "points": 2,
-      "num_comments": 0,
-      "author": "ccheshirecat",
-      "created_at": "2026-05-09T14:01:40Z",
-      "created_at_i": 1778335300,
-      "is_privesc": false,
-      "confidence": 0.99,
-      "severity": "low",
-      "cve": "",
-      "summary": "Mochi.js is a browser automation library for Bun. Not related to Linux privilege escalation or security vulnerabilities."
     }
   ]
 }
