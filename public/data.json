@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-08T03:48:47+00:00",
+  "generated_at": "2026-07-08T08:47:08+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
-  "total_privesc": 4,
-  "total_scanned": 20,
+  "total_privesc": 3,
+  "total_scanned": 19,
   "items": [
     {
       "id": "48096461",
@@ -308,22 +308,6 @@
       "severity": "low",
       "cve": "",
       "summary": "Mochi.js is a browser automation library for Bun. Not related to Linux privilege escalation or security vulnerabilities."
-    },
-    {
-      "id": "48072827",
-      "title": "Dirty Frag: Ongoing Linux Kernel Privilege Escalation Vulnerability Since 2017",
-      "url": "https://www.wiz.io/blog/dirty-frag-linux-kernel-local-privilege-escalation-via-esp-and-rxrpc",
-      "hn_url": "https://news.ycombinator.com/item?id=48072827",
-      "points": 2,
-      "num_comments": 0,
-      "author": "birdculture",
-      "created_at": "2026-05-09T07:41:52Z",
-      "created_at_i": 1778312512,
-      "is_privesc": true,
-      "confidence": 0.95,
-      "severity": "high",
-      "cve": "",
-      "summary": "Dirty Frag: Linux kernel LPE vulnerability in ESP and RXRPC subsystems exploitable since 2017. Allows unprivileged users to escalate privileges via memory corruption."
     }
   ]
 }
