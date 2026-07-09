@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-08T22:18:28+00:00",
+  "generated_at": "2026-07-09T04:16:08+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
   "total_privesc": 2,
-  "total_scanned": 13,
+  "total_scanned": 12,
   "items": [
     {
       "id": "48096461",
@@ -196,22 +196,6 @@
       "severity": "low",
       "cve": "",
       "summary": "Financial opinion piece about private credit markets and systemic risk. Not related to Linux privilege escalation or security vulnerabilities."
-    },
-    {
-      "id": "48078932",
-      "title": "MoE-Hub Taming Software Complexity for Seamless MoE Overlap on Multi-GPU Systems",
-      "url": "https://arxiv.org/abs/2605.05888",
-      "hn_url": "https://news.ycombinator.com/item?id=48078932",
-      "points": 1,
-      "num_comments": 0,
-      "author": "rbanffy",
-      "created_at": "2026-05-09T22:35:06Z",
-      "created_at_i": 1778366106,
-      "is_privesc": false,
-      "confidence": 0.99,
-      "severity": "low",
-      "cve": "",
-      "summary": "Academic paper about Mixture of Experts (MoE) optimization for multi-GPU systems. Not related to Linux privilege escalation or security vulnerabilities."
     }
   ]
 }
