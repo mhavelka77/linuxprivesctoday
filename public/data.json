@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-09T15:36:54+00:00",
+  "generated_at": "2026-07-09T20:08:42+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
   "total_privesc": 1,
-  "total_scanned": 7,
+  "total_scanned": 5,
   "items": [
     {
       "id": "48096461",
@@ -84,38 +84,6 @@
       "severity": "low",
       "cve": "",
       "summary": "FLOX is a C++ trading systems framework with MCP integration. Not related to Linux privilege escalation or security vulnerabilities."
-    },
-    {
-      "id": "48085359",
-      "title": "Kconfirm Is on a Quest to Clean Up the Linux Kernel's Configuration System",
-      "url": "https://www.phoronix.com/news/Linux-Kconfirm",
-      "hn_url": "https://news.ycombinator.com/item?id=48085359",
-      "points": 2,
-      "num_comments": 0,
-      "author": "Bender",
-      "created_at": "2026-05-10T16:34:31Z",
-      "created_at_i": 1778430871,
-      "is_privesc": false,
-      "confidence": 0.98,
-      "severity": "low",
-      "cve": "",
-      "summary": "Article about Kconfirm, a tool to improve Linux kernel configuration system management. Not related to privilege escalation vulnerabilities or exploits."
-    },
-    {
-      "id": "48085351",
-      "title": "Axboe Hacking on New Linux Patches for 60% Increase to Per-Core I/O Performance",
-      "url": "https://www.phoronix.com/news/Axboe-60p-Faster-Per-Core-Perf",
-      "hn_url": "https://news.ycombinator.com/item?id=48085351",
-      "points": 4,
-      "num_comments": 0,
-      "author": "Bender",
-      "created_at": "2026-05-10T16:34:01Z",
-      "created_at_i": 1778430841,
-      "is_privesc": false,
-      "confidence": 0.98,
-      "severity": "low",
-      "cve": "",
-      "summary": "Linux I/O performance optimization patches by Axboe for improved per-core throughput. Not a privilege escalation vulnerability."
     }
   ]
 }
