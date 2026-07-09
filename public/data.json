@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-09T09:59:36+00:00",
+  "generated_at": "2026-07-09T15:36:54+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
-  "total_privesc": 2,
-  "total_scanned": 10,
+  "total_privesc": 1,
+  "total_scanned": 7,
   "items": [
     {
       "id": "48096461",
@@ -116,54 +116,6 @@
       "severity": "low",
       "cve": "",
       "summary": "Linux I/O performance optimization patches by Axboe for improved per-core throughput. Not a privilege escalation vulnerability."
-    },
-    {
-      "id": "48084464",
-      "title": "'Dirty Frag' Linux flaw one-ups CopyFail with no patches and public root exploit",
-      "url": "https://www.theregister.com/security/2026/05/08/dirty-frag-linux-flaw-one-ups-copyfail-with-no-patches-and-public-root-exploit/5237230",
-      "hn_url": "https://news.ycombinator.com/item?id=48084464",
-      "points": 3,
-      "num_comments": 0,
-      "author": "Bender",
-      "created_at": "2026-05-10T14:51:15Z",
-      "created_at_i": 1778424675,
-      "is_privesc": true,
-      "confidence": 0.95,
-      "severity": "critical",
-      "cve": "",
-      "summary": "Dirty Frag is a Linux kernel LPE vulnerability with public root exploit and no patches available. Escalates unprivileged user to root access."
-    },
-    {
-      "id": "48083276",
-      "title": "The Shadow Admin Threat: AI Agents Creating Undetectable Backdoors",
-      "url": "https://sharetxt.live/blog/the-shadow-admin-threat-how-autonomous-ai-agents-could-introduce-undetectable-system-backdoors",
-      "hn_url": "https://news.ycombinator.com/item?id=48083276",
-      "points": 1,
-      "num_comments": 0,
-      "author": "rexthonyy",
-      "created_at": "2026-05-10T12:03:07Z",
-      "created_at_i": 1778414587,
-      "is_privesc": false,
-      "confidence": 0.95,
-      "severity": "low",
-      "cve": "",
-      "summary": "Opinion/threat analysis piece about hypothetical AI agents creating backdoors. Not about a specific Linux LPE vulnerability, exploit, or PoC."
-    },
-    {
-      "id": "48083107",
-      "title": "Show HN: Super ISO Updater",
-      "url": "https://github.com/JoshuaVandaele/SuperISOUpdater",
-      "hn_url": "https://news.ycombinator.com/item?id=48083107",
-      "points": 1,
-      "num_comments": 0,
-      "author": "JoshuaVandaele",
-      "created_at": "2026-05-10T11:39:32Z",
-      "created_at_i": 1778413172,
-      "is_privesc": false,
-      "confidence": 0.95,
-      "severity": "low",
-      "cve": "",
-      "summary": "Super ISO Updater is a tool for updating ISO files. No Linux LPE vulnerability, exploit, or technique disclosed."
     }
   ]
 }
