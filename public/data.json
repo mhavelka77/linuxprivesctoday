@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-09T04:16:08+00:00",
+  "generated_at": "2026-07-09T09:59:36+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
   "total_privesc": 2,
-  "total_scanned": 12,
+  "total_scanned": 10,
   "items": [
     {
       "id": "48096461",
@@ -164,38 +164,6 @@
       "severity": "low",
       "cve": "",
       "summary": "Super ISO Updater is a tool for updating ISO files. No Linux LPE vulnerability, exploit, or technique disclosed."
-    },
-    {
-      "id": "48082253",
-      "title": "AI Act Article 50 transparency rules. Heading for another cookie consent moment?",
-      "url": "https://digital-strategy.ec.europa.eu/en/library/draft-guidelines-implementation-transparency-obligations-certain-ai-systems-under-article-50-ai-act",
-      "hn_url": "https://news.ycombinator.com/item?id=48082253",
-      "points": 3,
-      "num_comments": 0,
-      "author": "nilen",
-      "created_at": "2026-05-10T09:06:59Z",
-      "created_at_i": 1778404019,
-      "is_privesc": false,
-      "confidence": 0.99,
-      "severity": "low",
-      "cve": "",
-      "summary": "EU AI Act transparency guidelines discussion. Not related to Linux privilege escalation or security vulnerabilities."
-    },
-    {
-      "id": "48081448",
-      "title": "Private Credit Isn't a Major Threat\u2013Probably",
-      "url": "https://www.wsj.com/finance/investing/private-credit-financial-system-6039b39e",
-      "hn_url": "https://news.ycombinator.com/item?id=48081448",
-      "points": 1,
-      "num_comments": 0,
-      "author": "petethomas",
-      "created_at": "2026-05-10T06:15:02Z",
-      "created_at_i": 1778393702,
-      "is_privesc": false,
-      "confidence": 0.99,
-      "severity": "low",
-      "cve": "",
-      "summary": "Financial opinion piece about private credit markets and systemic risk. Not related to Linux privilege escalation or security vulnerabilities."
     }
   ]
 }
