@@ -1,25 +1,8 @@
 {
-  "generated_at": "2026-07-10T15:04:57+00:00",
+  "generated_at": "2026-07-10T17:12:17+00:00",
   "model": "anthropic/claude-haiku-4-5",
   "today_count": 0,
   "total_privesc": 0,
-  "total_scanned": 1,
-  "items": [
-    {
-      "id": "48096461",
-      "title": "Show HN: Objo Studio",
-      "url": "https://objo.dev",
-      "hn_url": "https://news.ycombinator.com/item?id=48096461",
-      "points": 1,
-      "num_comments": 0,
-      "author": "garrypettet",
-      "created_at": "2026-05-11T15:38:30Z",
-      "created_at_i": 1778513910,
-      "is_privesc": false,
-      "confidence": 0.98,
-      "severity": "low",
-      "cve": "",
-      "summary": "Objo Studio appears to be a development tool or IDE project, unrelated to Linux privilege escalation vulnerabilities or security exploits."
-    }
-  ]
+  "total_scanned": 0,
+  "items": []
 }
